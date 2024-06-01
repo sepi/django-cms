@@ -20,3 +20,4 @@ with explaining *how to do things* than with helping you understand *how it work
     menu_system
     commonly_used_plugins
     frontend-integration
+    internals
