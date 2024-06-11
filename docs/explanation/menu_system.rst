@@ -164,6 +164,8 @@ clash with something.
     check if node represents a CMS Page, check for ``is_page`` in
     :py:attr:`menus.base.NavigationNode.attr` and that it is ``True``.
 
+.. _menu_system_logic:
+
 Menu system logic
 -----------------
 
